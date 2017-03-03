@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ClippyBot.OutlookManifest.xml
+C:\Projects\Git\ClippyBot\ClippyBot.Outlook\bin\Debug\ClippyBot.Outlook.debugapp

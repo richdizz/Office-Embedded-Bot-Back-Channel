@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ClippyBot.OfficeManifest.xml
+C:\Projects\Git\ClippyBot\ClippyBot.Office\bin\Debug\ClippyBot.Office.debugapp

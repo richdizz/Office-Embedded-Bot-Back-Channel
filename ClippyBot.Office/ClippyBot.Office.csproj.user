@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>https://rzdemos.sharepoint.com/sites/dev/</SharePointSiteUrl>
+    <GeneratedFeatureId>6e934da2-6e89-4ae5-9cea-0b9708caeb7e</GeneratedFeatureId>
+    <GeneratedPackageId>4b55f2df-74ff-4e7d-b048-8e3fa66721ac</GeneratedPackageId>
+    <GeneratedModuleId>{fcda8350-617d-4530-900e-91c73168090e}</GeneratedModuleId>
+    <GeneratedListId>{620d0620-a652-43e0-9652-46e028d9d003}</GeneratedListId>
+    <GeneratedProductId>{b4c9b3da-66f7-47f7-b8e9-94ad26970a97}</GeneratedProductId>
+    <GeneratedAppVersion>1.0.0.0</GeneratedAppVersion>
+    <GeneratedClientSecret>NQfo41M5xB4suLgUDTcxVcLSSX8dEbafsjXcJPU7axY=</GeneratedClientSecret>
+    <OfficeAppStartDocument>&lt;NewExcelWorkbook&gt;</OfficeAppStartDocument>
+    <OfficeAndSharePointStartAction>OfficeDesktopClient</OfficeAndSharePointStartAction>
+  </PropertyGroup>
+</Project>

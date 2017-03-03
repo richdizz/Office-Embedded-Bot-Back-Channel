@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="4b55f2df-74ff-4e7d-b048-8e3fa66721ac" solutionId="9bfafe2d-b0da-4e87-80cb-982aeb2d458c" resetWebServer="false" sharePointProductVersion="15.0" name="ClippyBot.Office" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="6e934da2-6e89-4ae5-9cea-0b9708caeb7e" />
+  </features>
+</package>

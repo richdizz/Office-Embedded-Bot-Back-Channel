@@ -1,0 +1,42 @@
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Bot Application1.dll.config
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Bot Application1.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Bot Application1.pdb
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Autofac.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Chronic.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.Bot.Builder.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.Bot.Connector.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Newtonsoft.Json.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\System.Net.Http.Formatting.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\System.Web.Http.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\System.Web.Http.WebHost.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Autofac.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.Bot.Builder.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.Bot.Connector.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Newtonsoft.Json.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Projects\Git\ClippyBot\ClippyBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\System.Net.Http.Formatting.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\System.Web.Http.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\System.Web.Http.WebHost.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Git\ClippyBot\ClippyBot\obj\Debug\ClippyBot.csprojResolveAssemblyReference.cache
+C:\Projects\Git\ClippyBot\ClippyBot\obj\Debug\Bot Application1.dll
+C:\Projects\Git\ClippyBot\ClippyBot\obj\Debug\Bot Application1.pdb
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Projects\Git\ClippyBot\ClippyBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Git\ClippyBot\ClippyBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
